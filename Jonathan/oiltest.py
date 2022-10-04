@@ -11,7 +11,7 @@ startDato= "2021-01-01"
 sluttDato= "2022-09-27"
 def createSnittPrisTabell(ticker, startDato, sluttDato):
     data = yf.download(ticker, start=startDato, end=sluttDato, interval = "1d", group_by = "ticker")
-    return pd.DataFrame( { "Date" : data["Date"], "Price" :(data["High"]+data["Low"])/2 })
+    return (data["High"]+data["Low"])/2
 
 oljeSnittPris = createSnittPrisTabell(tickers[0], startDato, sluttDato)
 
