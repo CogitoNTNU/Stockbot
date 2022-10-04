@@ -1,0 +1,9 @@
+.idea
+README.md
+.DS_Store
+Thumbs.db
+.env
+.idea/
+.vscode/
+*.sw*
+venv
