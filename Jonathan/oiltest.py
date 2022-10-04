@@ -1,14 +1,19 @@
-import requests
+import yfinance as yf
+import pandas as pd
+import matplotlib as plt
 
-base_currency = 'USD'
-symbol = 'BRENTOIL' 
-start_date = "2021-09-01"
-end_date = "2021-09-25"
-endpoint = 'timeseries'
-access_key = 'b3ow5l0y74ue0724gtnu0hpqls7j1rf85xlyd9f9cfm9ynp15v2rd9o3zq8g'
-resp = requests.get(
-    'https://www.commodities-api.com/api/'+endpoint+'?access_key='+access_key+'&start_date='+start_date+'&end_date='+end_date+'&base='+base_currency+'&symbols='+symbol)
-if resp.status_code != 200:
-    # This means something went wrong.
-    raise ApiError('GET /'+endpoint+'/ {}'.format(resp.status_code))
-print(resp.json())
+
+tickers = ["CL=F"]
+
+#Lager en tabell med snittet av dagenes høyeste og laveste snittpris i løpet av oppgitt dato intervall
+#Datoene må skrives som en string på formen: "YYYY-MM-DD".
+startDato= "2021-01-01"
+sluttDato= "2022-09-27"
+def createSnittPrisTabell(ticker, startDato, sluttDato):
+    data = yf.download(ticker, start=startDato, end=sluttDato, interval = "1d", group_by = "ticker")
+    return pd.DataFrame( { "Date" : data["Date"], "Price" :(data["High"]+data["Low"])/2 })
+
+oljeSnittPris = createSnittPrisTabell(tickers[0], startDato, sluttDato)
+
+
+print(oljeSnittPris)
