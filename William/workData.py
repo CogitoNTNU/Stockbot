@@ -11,12 +11,6 @@ print("before", df['Bruttovekt'].size)
 df['Bruttovekt'] = df['Bruttovekt'].str.replace(',', '.').astype('float64')
 #df['Bruttovekt'] = df['Bruttovekt'].astype('float64')
 
-'''
-plt.plot(df['Bruttovekt'], label='caught', color='red')
-plt.xlabel("Car nr")
-plt.ylabel("Price of model3")
-plt.legend()
-'''
 #df["Bruttovekt"].plot(kind='hist')
 
 #plt.show()
