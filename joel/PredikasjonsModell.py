@@ -71,28 +71,36 @@ model5.fit(train5[predictors], train5["Target"])
 train2new = train[dataChunkSize:(2*dataChunkSize)]
 preds1 = model1.predict(train2new[predictors])
 preds1 = pd.Series(preds1, index=train2new.index)
+print("Riktig prosentscore for modell 1:")
 print(precision_score(train2new["Target"], preds1))
+print("\n")
 
 
     #predikasjoner basert på modell1:
 train3new = train[(2*dataChunkSize):(3*dataChunkSize)]
 preds2 = model2.predict(train3new[predictors])
 preds2 = pd.Series(preds2, index=train3new.index)
+print("Riktig prosentscore for modell 2:")
 print(precision_score(train3new["Target"], preds2))
+print("\n")
 
 
     #predikasjoner basert på modell1:
 train4new = train[(3*dataChunkSize):(4*dataChunkSize)]
 preds3 = model3.predict(train4new[predictors])
 preds3 = pd.Series(preds3, index=train4new.index)
+print("Riktig prosentscore for modell 3:")
 print(precision_score(train4new["Target"], preds3))
+print("\n")
 
 
     #predikasjoner basert på modell1:
 train5new = train[(4*dataChunkSize):(5*dataChunkSize)]
 preds4 = model4.predict(train5new[predictors])
 preds4 = pd.Series(preds4, index=train5new.index)
+print("Riktig prosentscore for modell 4:")
 print(precision_score(train5new["Target"], preds4))
+print("\n")
 
 
     #predikasjoner basert på modell1: 
@@ -100,4 +108,6 @@ print(precision_score(train5new["Target"], preds4))
 train5new = train[(4*dataChunkSize):(5*dataChunkSize)]
 preds5 = model5.predict(train5new[predictors])
 preds5 = pd.Series(preds4, index=train5new.index)
+print("Riktig prosentscore for modell 5:")
 print(precision_score(train5new["Target"], preds5))
+print("\n")
