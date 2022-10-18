@@ -1,0 +1,103 @@
+import yfinance as yf
+import pandas as pd
+import os
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import precision_score
+
+
+
+
+ticker, stockName, startDatoPåDataYYYYMMDD = "EQNR.OL", "Equinor", "2005-01-01"
+
+
+stockName = yf.Ticker(ticker)
+stockName = stockName.history(period="max") 
+stockName.index = pd.to_datetime(stockName.index)
+
+#Sletter rader fra tabellen
+del stockName["Dividends"]
+del stockName["Stock Splits"]
+
+#Opretter en ny kollonne for morgendagnespris
+#Morgendagenspris tilsvarer neste dags pris ved "Close":
+stockName["Tomorrow"]=stockName["Close"].shift(-1)
+
+#Sjekker om prisen i morgen er større en prisen som var i dag. Kollonnen target får verdi 1 om dette er tilfellet.
+#Evnt kan endre på dette til at verdien blir kun 1 om prisen økte med to prosent (????)
+stockName["Target"]=(stockName["Tomorrow"] > stockName["Close"]).astype(int)
+
+#Fjerner all data før denne datoen fordi det kan være utdatert
+stockName = stockName.loc[startDatoPåDataYYYYMMDD:].copy()
+
+
+#Lager modeller
+model = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
+model1 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
+model2 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
+model3 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
+model4 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
+model5 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
+
+
+#Sorterer datasettet etter trenings datsett og test datsett. Vil at datasett skal være delelig på 5.
+train = stockName.iloc[:-100]
+test = stockName.iloc[-100:]
+rest = len(train.index) % 5
+train = train[(rest):]
+
+#Deler treningsdatasettet opp i 5 biter:
+dataChunkSize = len(train.index)//5
+train1 = train[0:dataChunkSize]
+train2 = train[0:(2*dataChunkSize)]
+train3 = train[0:(3*dataChunkSize)]
+train4 = train[0:(4*dataChunkSize)]
+train5 = train[0:(5*dataChunkSize)]
+
+
+
+
+#Ramdom forest modellene skal nå trenes på predikerikteringfaktorene (?) under.
+# Etter dette skal vi ha trent ai modellen. 
+predictors = ["Close", "Volume", "Open", "High", "Low"]
+model1.fit(train1[predictors], train1["Target"])
+model2.fit(train2[predictors], train2["Target"])
+model3.fit(train3[predictors], train3["Target"])
+model4.fit(train4[predictors], train4["Target"])
+model5.fit(train5[predictors], train5["Target"])
+
+
+#Prediksjonene lages
+    #predikasjoner basert på modell1:
+train2new = train[dataChunkSize:(2*dataChunkSize)]
+preds1 = model1.predict(train2new[predictors])
+preds1 = pd.Series(preds1, index=train2new.index)
+print(precision_score(train2new["Target"], preds1))
+
+
+    #predikasjoner basert på modell1:
+train3new = train[(2*dataChunkSize):(3*dataChunkSize)]
+preds2 = model2.predict(train3new[predictors])
+preds2 = pd.Series(preds2, index=train3new.index)
+print(precision_score(train3new["Target"], preds2))
+
+
+    #predikasjoner basert på modell1:
+train4new = train[(3*dataChunkSize):(4*dataChunkSize)]
+preds3 = model3.predict(train4new[predictors])
+preds3 = pd.Series(preds3, index=train4new.index)
+print(precision_score(train4new["Target"], preds3))
+
+
+    #predikasjoner basert på modell1:
+train5new = train[(4*dataChunkSize):(5*dataChunkSize)]
+preds4 = model4.predict(train5new[predictors])
+preds4 = pd.Series(preds4, index=train5new.index)
+print(precision_score(train5new["Target"], preds4))
+
+
+    #predikasjoner basert på modell1: 
+    ####OBS TESTER PÅ TRENINGSETTET. MENINGLØS TEST. FJERN!
+train5new = train[(4*dataChunkSize):(5*dataChunkSize)]
+preds5 = model5.predict(train5new[predictors])
+preds5 = pd.Series(preds4, index=train5new.index)
+print(precision_score(train5new["Target"], preds5))
