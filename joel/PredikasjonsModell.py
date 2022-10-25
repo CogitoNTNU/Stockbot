@@ -29,6 +29,8 @@ stockName["Target"]=(stockName["Tomorrow"] > stockName["Close"]).astype(int)
 #Fjerner all data før denne datoen fordi det kan være utdatert
 stockName = stockName.loc[startDatoPåDataYYYYMMDD:].copy()
 
+print(stockName)
+
 
 #Lager modeller
 model = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
@@ -44,6 +46,8 @@ train = stockName.iloc[:-100]
 test = stockName.iloc[-100:]
 rest = len(train.index) % 5
 train = train[(rest):]
+
+print(train)
 
 #Deler treningsdatasettet opp i 5 biter:
 dataChunkSize = len(train.index)//5
