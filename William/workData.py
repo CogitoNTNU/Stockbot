@@ -17,7 +17,7 @@ n = len(pd.unique(df['Landingstidspunkt']))
 df = df.groupby(['Landingstidspunkt']).sum().reset_index()
 
 df['Landingstidspunkt'] = pd.to_datetime(df['Landingstidspunkt'], dayfirst=True)
-df = df.sort_values(by=['Landingstidspunkt'], ascending=True).
+df = df.sort_values(by=['Landingstidspunkt'], ascending=True)
 df.sort_values(by='Landingstidspunkt',ascending=False)
 df.to_csv('output.csv', columns = fields)
 df.groupby(['Landingstidspunkt'])
