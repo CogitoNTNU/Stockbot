@@ -1,8 +1,9 @@
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
+import csv
 
-file = "testdata.txt"
+file = "testdata.csv"
 
 plasser = {"Heim": "SN65230", "Melhus": "SN68270", "Åfjord": "SN71810"}
 
@@ -15,10 +16,10 @@ endpoint = 'https://frost.met.no/observations/v0.jsonld'
 parameters = {
     'sources': f'{plasser["Heim"]}, {plasser["Melhus"]}, {plasser["Åfjord"]}',
     'elements': 'mean(air_temperature P1D),sum(precipitation_amount P1D),mean(wind_speed P1D)',
-    'referencetime': '2021-01-01/2022-09-01',
+    'referencetime': '2021-01-01/2022-10-01',
 }
 # Issue an HTTP GET request
-r = requests.get(endpoint, parameters, auth=(client_id,''))
+r = requests.get(endpoint, parameters, auth=(client_id, ''))
 # Extract JSON data
 json = r.json()
 
@@ -32,13 +33,13 @@ else:
     print('Reason: %s' % json['error']['reason'])
 
 
-with open(file, "w+") as fil:
+with open('vdata.csv', 'w', encoding='UTF8') as f:
+
+    fil = csv.writer(f)
+
     for i in data:
         # fil.write(str(i))
         id = i["sourceId"]
         tid = ((i["referenceTime"]).split("T"))[0]
         nedbør = str(i["observations"][0]["value"])
-        fil.write(f"{id};{tid};{nedbør}\n")
-
-
-
+        fil.writerow([{tid}, {nedbør}])
