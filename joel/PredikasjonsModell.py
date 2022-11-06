@@ -33,12 +33,12 @@ print(stockName)
 
 
 #Lager modeller
-model = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
-model1 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
-model2 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
-model3 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
-model4 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
-model5 = RandomForestClassifier(n_estimators=100, min_samples_split=100, random_state=1)
+model = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
+model1 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
+model2 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
+model3 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
+model4 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
+model5 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
 
 
 #Sorterer datasettet etter trenings datsett og test datsett. Vil at datasett skal være delelig på 5.
@@ -47,7 +47,7 @@ test = stockName.iloc[-100:]
 rest = len(train.index) % 5
 train = train[(rest):]
 
-print(train)
+
 
 #Deler treningsdatasettet opp i 5 biter:
 dataChunkSize = len(train.index)//5
@@ -56,7 +56,6 @@ train2 = train[0:(2*dataChunkSize)]
 train3 = train[0:(3*dataChunkSize)]
 train4 = train[0:(4*dataChunkSize)]
 train5 = train[0:(5*dataChunkSize)]
-
 
 
 
@@ -71,8 +70,9 @@ model5.fit(train5[predictors], train5["Target"])
 
 
 #Prediksjonene lages
-    #predikasjoner basert på modell1:
-train2new = train[dataChunkSize:(2*dataChunkSize)]
+    #predikasjoner på resten av treningsette som modellen ikke er trent på. 
+    #Modellen under er basert på modell1:
+train2new = train[(dataChunkSize):]
 preds1 = model1.predict(train2new[predictors])
 preds1 = pd.Series(preds1, index=train2new.index)
 print("Riktig prosentscore for modell 1:")
@@ -80,8 +80,9 @@ print(precision_score(train2new["Target"], preds1))
 print("\n")
 
 
-    #predikasjoner basert på modell1:
-train3new = train[(2*dataChunkSize):(3*dataChunkSize)]
+    #predikasjoner på resten av treningsette som modellen ikke er trent på. 
+    #Modellen under er basert på modell2:
+train3new = train[(2*dataChunkSize):]
 preds2 = model2.predict(train3new[predictors])
 preds2 = pd.Series(preds2, index=train3new.index)
 print("Riktig prosentscore for modell 2:")
@@ -89,8 +90,9 @@ print(precision_score(train3new["Target"], preds2))
 print("\n")
 
 
-    #predikasjoner basert på modell1:
-train4new = train[(3*dataChunkSize):(4*dataChunkSize)]
+    #predikasjoner på resten av treningsette som modellen ikke er trent på. 
+    #Modellen under er basert på modell3:
+train4new = train[(3*dataChunkSize):]
 preds3 = model3.predict(train4new[predictors])
 preds3 = pd.Series(preds3, index=train4new.index)
 print("Riktig prosentscore for modell 3:")
@@ -98,8 +100,9 @@ print(precision_score(train4new["Target"], preds3))
 print("\n")
 
 
-    #predikasjoner basert på modell1:
-train5new = train[(4*dataChunkSize):(5*dataChunkSize)]
+    #predikasjoner på resten av treningsette som modellen ikke er trent på. 
+    #Modellen under er basert på modell4:
+train5new = train[(4*dataChunkSize):]
 preds4 = model4.predict(train5new[predictors])
 preds4 = pd.Series(preds4, index=train5new.index)
 print("Riktig prosentscore for modell 4:")
@@ -107,9 +110,9 @@ print(precision_score(train5new["Target"], preds4))
 print("\n")
 
 
-    #predikasjoner basert på modell1: 
+    #predikasjoner på resten av treningsette som modellen ikke er trent på. 
+    #Modellen under er basert på modell5: 
     ####OBS TESTER PÅ TRENINGSETTET. MENINGLØS TEST. FJERN!
-train5new = train[(4*dataChunkSize):(5*dataChunkSize)]
 preds5 = model5.predict(train5new[predictors])
 preds5 = pd.Series(preds4, index=train5new.index)
 print("Riktig prosentscore for modell 5:")
