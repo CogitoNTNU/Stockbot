@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import os
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.metrics import precision_score
 
 
@@ -13,6 +13,8 @@ ticker, stockName, startDatoPåDataYYYYMMDD = "EQNR.OL", "Equinor", "2005-01-01"
 stockName = yf.Ticker(ticker)
 stockName = stockName.history(period="max") 
 stockName.index = pd.to_datetime(stockName.index)
+
+#print(stockName)
 
 #Sletter rader fra tabellen
 del stockName["Dividends"]
@@ -29,16 +31,19 @@ stockName["Target"]=(stockName["Tomorrow"] > stockName["Close"]).astype(int)
 #Fjerner all data før denne datoen fordi det kan være utdatert
 stockName = stockName.loc[startDatoPåDataYYYYMMDD:].copy()
 
-print(stockName)
+
 
 
 #Lager modeller
-model = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
-model1 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
-model2 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
-model3 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
-model4 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
-model5 = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
+numberEstimators = 1000
+minSample = 10
+randState = 0
+model = RandomForestClassifier(n_estimators=numberEstimators, min_samples_split=minSample, random_state=randState)
+model1 = RandomForestClassifier(n_estimators=numberEstimators, min_samples_split=minSample, random_state=randState)
+model2 = RandomForestClassifier(n_estimators=numberEstimators, min_samples_split=minSample, random_state=randState)
+model3 = RandomForestClassifier(n_estimators=numberEstimators, min_samples_split=minSample, random_state=randState)
+model4 = RandomForestClassifier(n_estimators=numberEstimators, min_samples_split=minSample, random_state=randState)
+model5 = RandomForestClassifier(n_estimators=numberEstimators, min_samples_split=minSample, random_state=randState)
 
 
 #Sorterer datasettet etter trenings datsett og test datsett. Vil at datasett skal være delelig på 5.
@@ -46,6 +51,9 @@ train = stockName.iloc[:-100]
 test = stockName.iloc[-100:]
 rest = len(train.index) % 5
 train = train[(rest):]
+
+
+
 
 
 
