@@ -70,13 +70,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-41bbe597b230.js"></script>
   
 
-  <title>Best-README-Template/BLANK_README.md at master · othneildrew/Best-README-Template</title>
+  <title>Best-README-Template/README.md at master · othneildrew/Best-README-Template</title>
 
 
 
     
 
-  <meta name="request-id" content="EAF9:CD7A:F1C7B37:F9A2B4A:638FB727" data-turbo-transient="true" /><meta name="html-safe-nonce" content="143aa5f35e60126bfe6acf5df937054e176298c2cd9424a75aee3f0730d6382d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkVBRjk6Q0Q3QTpGMUM3QjM3OkY5QTJCNEE6NjM4RkI3MjciLCJ2aXNpdG9yX2lkIjoiNjU0MTUwMDkyMzA5NTI2NDAyMiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="ee92ab5a568d6b9cc2cdfa0a87f14ce496fe1ab59644ed36557e326db64d5120" data-turbo-transient="true" />
+  <meta name="request-id" content="EAF9:CD7A:F1E824A:F9C3DC5:638FB799" data-turbo-transient="true" /><meta name="html-safe-nonce" content="143aa5f35e60126bfe6acf5df937054e176298c2cd9424a75aee3f0730d6382d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkVBRjk6Q0Q3QTpGMUU4MjRBOkY5QzNEQzU6NjM4RkI3OTkiLCJ2aXNpdG9yX2lkIjoiNjU0MTUwMDkyMzA5NTI2NDAyMiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="1c803d647e8c2eba65f0cfef8d71bd15386cb2d354bcde4c15c7a86acfe0fc69" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:161215159" data-turbo-transient>
@@ -110,16 +110,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="An awesome README template to jumpstart your projects!  - Best-README-Template/BLANK_README.md at master · othneildrew/Best-README-Template">
+      <meta name="description" content="An awesome README template to jumpstart your projects!  - Best-README-Template/README.md at master · othneildrew/Best-README-Template">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/1570a1ce4e1856c11a0bddbf4ac2158659d4f50054ecaabe91617b74bf272e43/othneildrew/Best-README-Template" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Best-README-Template/BLANK_README.md at master · othneildrew/Best-README-Template" /><meta name="twitter:description" content="An awesome README template to jumpstart your projects!  - Best-README-Template/BLANK_README.md at master · othneildrew/Best-README-Template" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/1570a1ce4e1856c11a0bddbf4ac2158659d4f50054ecaabe91617b74bf272e43/othneildrew/Best-README-Template" /><meta property="og:image:alt" content="An awesome README template to jumpstart your projects!  - Best-README-Template/BLANK_README.md at master · othneildrew/Best-README-Template" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Best-README-Template/BLANK_README.md at master · othneildrew/Best-README-Template" /><meta property="og:url" content="https://github.com/othneildrew/Best-README-Template" /><meta property="og:description" content="An awesome README template to jumpstart your projects!  - Best-README-Template/BLANK_README.md at master · othneildrew/Best-README-Template" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/1570a1ce4e1856c11a0bddbf4ac2158659d4f50054ecaabe91617b74bf272e43/othneildrew/Best-README-Template" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Best-README-Template/README.md at master · othneildrew/Best-README-Template" /><meta name="twitter:description" content="An awesome README template to jumpstart your projects!  - Best-README-Template/README.md at master · othneildrew/Best-README-Template" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/1570a1ce4e1856c11a0bddbf4ac2158659d4f50054ecaabe91617b74bf272e43/othneildrew/Best-README-Template" /><meta property="og:image:alt" content="An awesome README template to jumpstart your projects!  - Best-README-Template/README.md at master · othneildrew/Best-README-Template" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Best-README-Template/README.md at master · othneildrew/Best-README-Template" /><meta property="og:url" content="https://github.com/othneildrew/Best-README-Template" /><meta property="og:description" content="An awesome README template to jumpstart your projects!  - Best-README-Template/README.md at master · othneildrew/Best-README-Template" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79274024/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTI3NDAyNCwicyI6OTIwOTU1OTA2LCJjIjo4MzM0NDU0NjgsInQiOjE2NzAzNjI5Mjl9--9367be875041fcf142687c0e134cd1b50539cbe707eb78c958122ab08f3c7b74" data-refresh-url="/_alive" data-session-id="ac5a72075cf22128946325482b652e602d7f15d0b6e3f0ae25b0f21fb897a715">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79274024/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTI3NDAyNCwicyI6OTIwOTU1OTA2LCJjIjozODU4MjczNDY4LCJ0IjoxNjcwMzYzMDUyfQ==--fa9d79d3c53207bf6355939ef87df3808860f84eae554ddc86d99baafb1d4cbe" data-refresh-url="/_alive" data-session-id="ac5a72075cf22128946325482b652e602d7f15d0b6e3f0ae25b0f21fb897a715">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -149,7 +149,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/othneildrew/Best-README-Template/blob/master/README.md" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -245,7 +245,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="0eQ5IZjp3wk8Ou5-KxcSOiaIDMIuXmrBfOCubTugxKsmuu62YhvO075T4lvrdg3CfFnKZO1QgGBn6XwUsVKwaQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="0jjPGqtK6BPF92P__s8q6eD6JtLZBr56cVp8RP594PwlZhiNUbj5yUeeb9o-rjURuivgdBoIVNtqU649dI-UPg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -444,7 +444,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;villi02&quot;,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="14bae101f1b68ec6f29b7a65bd9ae37b13e488fe4125cfd7e7e4ad502553a2ea" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;villi02&quot;,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="5417e5db3b290971190e58872e707a696191b0f11fbeb86d110909d6e358263b" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -452,7 +452,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/79274024?s=40&amp;v=4" width="20" height="20" alt="@villi02" />
       villi02
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PuNoloCw5WSt5jraCcxLmDkhRl-sV3gIWxjDOVXySx6or1dfj3HJryKWddBJ8AyqgHsHU8hcN8D7ZtSN6pzYuQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sz6CjfXVmokIk2WpxTydiuLuy529RcQ1JcUXvRCNCuQlcr1E-hS2QofjKqOFANq4W7SKkdlOi_2FuwAJr-OZQw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -487,7 +487,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzkyNzQwMjQiLCJ0IjoxNjcwMzYyOTI5fQ==--4b13317d6071862636878daf9a68523f8565416da6d783e32cdd3a6b2bee5013" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzkyNzQwMjQiLCJ0IjoxNjcwMzYzMDUyfQ==--dff606d24ce7acc25f998062653a72bf1a00025cdc3a7ba547af76039c0af81b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -645,7 +645,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/othneildrew/Best-README-Template/blob/master/BLANK_README.md
+      return-to=/othneildrew/Best-README-Template/blob/master/README.md
       user-id="79274024"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1611,7 +1611,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="10e0ea45f2e3801dfb3b54a5831eaa6a906a8fcd5a4dc6c313b8a31ffdd1754e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="c61e00d21e924a76037ff5841d2988a96744f6d21cdde30128f2ceb5d416e0fb" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1663,7 +1663,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MwavN8KKk-864njy8eOLNHt3o_6f5BTIk735L177JiFub61HHN_SEn07Ek72flFlSvK-lvZDmrrvc4WENoj6-A" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lfx6x1xnWRudJWKd8a5LlGuKLabI8CZ1UMwfLoPJtTnIlXi3gjIY5tr8CCH2M5HFWg8wzqFXqAcsAmOF67pp4A" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="161215159">
 
@@ -1781,7 +1781,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UvfvkXqJAnze8ewm25YsuQ6FwJYzM4tjR1JpBBuO9RAPnu3hpNxDgZkohprcC_boPwDd_lqUBRE7nBWvc_0pyQ" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gyMbzvrKHxOUOKIXu7rz0s-VmeckLP7pwNLCOtC3wqTeShm-JJ9e7tPhyKu8JymD_hCEj02LcJu8HL6RuMQefQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="161215159">
 
@@ -1932,7 +1932,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/othneildrew/Best-README-Template/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="5b70251166fa52d68b8566ce10e70383d86fb5d0dc5e48b8f0ca7c49949b6fd6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of othneildrew/Best-README-Template" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/othneildrew/Best-README-Template/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="127117d8e137af9ca4c3d3e68291b569fb89a6369412fb692f1cc61442856650" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of othneildrew/Best-README-Template" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="18,859" data-view-component="true" class="Counter">18.9k</span>
@@ -1950,13 +1950,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-37dac2">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-547e26">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-37dac2"
+        id="filter-menu-547e26"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1998,10 +1998,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/othneildrew/Best-README-Template/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_WNjbfeWhsZoEPn-5LcOTGBiVED8HCSs3fM9IEgiTZ2NV88q0AbSGoBt_ZKzIhzHEG7y4NYdZ7DVONaaP5TshA" autocomplete="off" />
-          <input type="hidden" value="PkcWlVNTcns6AQ1riplJxxknbeCgc2BB9liAtLFiO39Oc7rSdMMmp9J8CQfdDFtMaSvLQIpyI13-k2sOxtSaZg" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/othneildrew/Best-README-Template/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Gxm-oiW5zKa2LKbJZUevtmF3FCxsruShQ4gJGXI1g0trLRLlAimYel5RoqUy0r09EXuyjEavp71LQ-KjBYMiUg" autocomplete="off" />
+          <input type="hidden" value="qyZhQi1vA_nDdMwWclwZT3n3wg1A1FdiP85Q0golg-jbEs0FCv9XJSsJyHolyQvECftkrWrVFH43BbtofZMi8Q" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="4b754aa3b85f6bc1f3a9d2eaa6d434859d29b36ce74fab3b1454a4e85c56c3ec" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (8629)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="45cbf472c9d8fd5b6ac2c0a6953aeef5fe4fd85f797b7559a92d5705044a8010" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (8629)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2019,13 +2019,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0c5ec7">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7ed0d3">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-0c5ec7"
+        id="filter-menu-7ed0d3"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2046,9 +2046,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/othneildrew/Best-README-Template/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="92xti7hfvDv2OBqXou0gVXXGvosIgUuZE4nE07af8FbGfiv0L0hjLl2WRwUqelxXOuJCm78ieP64fzZ4H-AIiQ" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/othneildrew/Best-README-Template/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mS-i0lEK1gB8CFBuqXFheHCVcXhKkiolESoo6MYupbioPeStxh0JFdemDfwh5h16P7GNaP0xGUK63NpDb1FdZw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="75c978538e7f03ec99eae8b35dadee268e68e10b0ddf21e0730e43990b2e0ae6" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (8629)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="03da62ea2457ef5f6f88a9f40643a2a88d19706351d742c808d5ca6e23d855c3" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (8629)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2066,13 +2066,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0c5ec7">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7ed0d3">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-0c5ec7"
+        id="filter-menu-7ed0d3"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2259,7 +2259,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/BLANK_README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2267,7 +2267,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="d30f2fd83411424c30efc6a2199c931d8e44653a5b09a82e52ac32507a404ed5">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="cee21671fe092bea32ce68b1598f542a8e8bbbb21e59464e826a5b3dacbbddeb">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2348,7 +2348,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/othneildrew/Best-README-Template/blob/{{ urlEncodedRefName }}/BLANK_README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/othneildrew/Best-README-Template/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2390,7 +2390,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/othneildrew/Best-README-Template/blob/{{ urlEncodedRefName }}/BLANK_README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/othneildrew/Best-README-Template/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2451,7 +2451,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/othneildrew/Best-README-Template"><span>Best-README-Template</span></a></span></span><span class="separator">/</span><strong class="final-path">BLANK_README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/othneildrew/Best-README-Template"><span>Best-README-Template</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </h2>
     <a href="/othneildrew/Best-README-Template/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2462,7 +2462,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="66c57ec89ac47f5b98c540785e88c8042453fe0496d4b8f8ba2b5fa979f895bc" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/othneildrew/Best-README-Template/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="e21ae50957b6a601ce6a55fed70531a35cb4352f97a63cb2c2b913efe9c5559b" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/othneildrew/Best-README-Template/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2474,13 +2474,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="BLANK_README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/BLANK_README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2539,7 +2539,7 @@
             <span itemprop="dateModified"><relative-time datetime="2022-08-03T19:43:34Z" class="no-wrap">Aug 3, 2022</relative-time></span>
           </span>
 
-          <a data-pjax href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/othneildrew/Best-README-Template/commits/master/README.md" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -2558,14 +2558,14 @@
         <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
 </svg>
-        <strong>13</strong>
+        <strong>8</strong>
         
         contributors
       </summary>
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/othneildrew/Best-README-Template/contributors-list/master/BLANK_README.md" preload>
+        src="/othneildrew/Best-README-Template/contributors-list/master/README.md" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -2585,33 +2585,24 @@
       </details-dialog>
     </details>
       <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/othneildrew/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=othneildrew">
+    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/othneildrew/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=othneildrew">
       <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/24785934?s=48&amp;v=4" width="24" height="24" alt="@othneildrew" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/luisitoguanes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=luisitoguanes">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/22303776?s=48&amp;v=4" width="24" height="24" alt="@luisitoguanes" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/viraatdas/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=viraatdas">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/7952969?s=48&amp;v=4" width="24" height="24" alt="@viraatdas" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/tariapper/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=tariapper">
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/douglascayers/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=douglascayers">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/4142577?s=48&amp;v=4" width="24" height="24" alt="@douglascayers" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/tariapper/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=tariapper">
       <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/6363215?s=48&amp;v=4" width="24" height="24" alt="@tariapper" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/shivgodhia/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=shivgodhia">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/27841209?s=48&amp;v=4" width="24" height="24" alt="@shivgodhia" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/rfrazier716/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=rfrazier716">
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/rfrazier716/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=rfrazier716">
       <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/9340751?s=48&amp;v=4" width="24" height="24" alt="@rfrazier716" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/glennsvel90/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=glennsvel90">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/17994185?s=48&amp;v=4" width="24" height="24" alt="@glennsvel90" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/ggtylerr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=ggtylerr">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/28498877?s=48&amp;v=4" width="24" height="24" alt="@ggtylerr" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/ferneynava/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=ferneynava">
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/ferneynava/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=ferneynava">
       <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/43612075?s=48&amp;v=4" width="24" height="24" alt="@ferneynava" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/akarzim/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=akarzim">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/130560?s=48&amp;v=4" width="24" height="24" alt="@akarzim" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/Aarav-USA/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=Aarav-USA">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/80801287?s=48&amp;v=4" width="24" height="24" alt="@Aarav-USA" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/kidonng/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/BLANK_README.md?author=kidonng">
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/EduardoPD1921/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=EduardoPD1921">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/61231740?s=48&amp;v=4" width="24" height="24" alt="@EduardoPD1921" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/kidonng/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=kidonng">
       <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/44045911?s=48&amp;v=4" width="24" height="24" alt="@kidonng" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/mohammedyh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/othneildrew/Best-README-Template/commits/master/README.md?author=mohammedyh">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/32526267?s=48&amp;v=4" width="24" height="24" alt="@mohammedyh" /> 
 </a>
-      <button data-toggle-for="blob_contributors_box" type="button" data-view-component="true" class="lh-default btn-link">    +1
-</button></span>
+</span>
 
   </div>
 </div>
@@ -2638,8 +2629,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}"
-  data-menu-hydro-click-hmac="e9fa7d70b137c20ddd9d95ac3f46ad7fc38bc885e5213bbbbe39ea5acebd8e37"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}"
+  data-menu-hydro-click-hmac="8dc25dd4b9efe62f6237ff8ddcdefbfccb23d3971762cf67782ce429012da822"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2668,18 +2659,18 @@
         </div>
 
       <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#project_title">project_title</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#about-the-project">About The Project</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#built-with">Built With</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#getting-started">Getting Started</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#prerequisites">Prerequisites</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#installation">Installation</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#usage">Usage</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#roadmap">Roadmap</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#contributing">Contributing</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#license">License</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#contact">Contact</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="377ecd59b47d939c600e5225ef8f1e508df15d98c7cbe075ae48853eb8f48c9f" href="#acknowledgments">Acknowledgments</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#best-readme-template">Best-README-Template</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#about-the-project">About The Project</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#built-with">Built With</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#getting-started">Getting Started</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#prerequisites">Prerequisites</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#installation">Installation</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#usage">Usage</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#roadmap">Roadmap</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#contributing">Contributing</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#license">License</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#contact">Contact</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="a8532ee016d317747a7a695e3a222d0e331e177bb8d0dad5ba41762359d45c50" href="#acknowledgments">Acknowledgments</a>
       </div>
     </div>
   </details-menu>
@@ -2688,31 +2679,31 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      247 lines (178 sloc)
+      270 lines (195 sloc)
       <span class="file-info-divider"></span>
-    8.32 KB
+    10.1 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/othneildrew/Best-README-Template/blob/master/BLANK_README.md?plain=1" data-permalink-href="/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/BLANK_README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/othneildrew/Best-README-Template/blob/master/README.md?plain=1" data-permalink-href="/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
-</a>      <a href="/othneildrew/Best-README-Template/blob/master/BLANK_README.md" data-permalink-href="/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/BLANK_README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/othneildrew/Best-README-Template/blob/master/README.md" data-permalink-href="/othneildrew/Best-README-Template/blob/3552467eeb3e386bfc592218e2e75557990d2289/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/othneildrew/Best-README-Template/raw/3552467eeb3e386bfc592218e2e75557990d2289/BLANK_README.md" href="/othneildrew/Best-README-Template/raw/master/BLANK_README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/othneildrew/Best-README-Template/blame/3552467eeb3e386bfc592218e2e75557990d2289/BLANK_README.md" href="/othneildrew/Best-README-Template/blame/master/BLANK_README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/othneildrew/Best-README-Template/raw/3552467eeb3e386bfc592218e2e75557990d2289/README.md" href="/othneildrew/Best-README-Template/raw/master/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/othneildrew/Best-README-Template/blame/3552467eeb3e386bfc592218e2e75557990d2289/README.md" href="/othneildrew/Best-README-Template/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/othneildrew/Best-README-Template/edit/master/BLANK_README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hmnPlFDL9Qdy4NbFAgNVXkU9Ui43tnbq74d_tsGOcZ84hf46vIKtb_OYuSbAKnjGxIPz9dqHSeJ-wO2veVHWgA" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/othneildrew/Best-README-Template/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6VvPEZWKXPmeoGq7Eu5hUIoF9wPtip_PzmvyP292iHUOEh8ie6bPHZnFIBAMdlilj-EsVYUy4Ogvs6lfR7maXg" autocomplete="off" />
       <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2722,7 +2713,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/othneildrew/Best-README-Template/edit/master/BLANK_README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bXaaRgBasOb_v6Xa39YyRqzwa9k1dxOMK6dcjXq68O_Tmqvo7BPojn7Hyjkd_x_eLU7KAthGLIS64M6UwmVX8A" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/othneildrew/Best-README-Template/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GmnwFmht0FYIqQRbOol6_UjKLJWrpu4nABnc9YbZJ0b9ICAlhkFDsg_MTvAkEUMITS73w8MekQDhwYeVrhY1bQ" autocomplete="off" />
               <button title="Edit the file in your fork of this project" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2730,7 +2721,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/othneildrew/Best-README-Template?branch=master&amp;filepath=BLANK_README.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/othneildrew/Best-README-Template?branch=master&amp;filepath=README.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2741,10 +2732,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/othneildrew/Best-README-Template/raw/3552467eeb3e386bfc592218e2e75557990d2289/BLANK_README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/othneildrew/Best-README-Template/raw/3552467eeb3e386bfc592218e2e75557990d2289/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="7bffd30f769fda34c28c69f4a4b98cf9500c0f28349d0500d716b686180667a6" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="3f2acbbf689da99202b3f74bca6ddab64fefa78478b0e8ad20b6fc47315560e5" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2769,7 +2760,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/othneildrew/Best-README-Template/delete/master/BLANK_README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sTG2bgvUpG2e9kPh_MZnJzp-69VIkAutZ7O0AlP_QOY_p7DDzizuaUNyRgEHUVEAQjPOh-X8fd06jnXO8jCFlA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/othneildrew/Best-README-Template/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VAin7b20iH58g3bxpia2_NsWjiJ7xZ7Gt0lnKBTfnSGT_5_F73o_5i2rzD7yKyOzI9HtyMqKWCOZJrXizJNv2w" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2797,20 +2788,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/othneildrew/Best-README-Template?branch=master&amp;filepath=BLANK_README.md">
+                   href="x-github-client://openRepo/https://github.com/othneildrew/Best-README-Template?branch=master&amp;filepath=README.md">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/othneildrew/Best-README-Template/raw/master/BLANK_README.md">
+            <a class="dropdown-item" href="/othneildrew/Best-README-Template/raw/master/README.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/othneildrew/Best-README-Template/raw/master/BLANK_README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/othneildrew/Best-README-Template/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="7bffd30f769fda34c28c69f4a4b98cf9500c0f28349d0500d716b686180667a6">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:161215159,&quot;originating_url&quot;:&quot;https://github.com/othneildrew/Best-README-Template/blob/master/README.md&quot;,&quot;user_id&quot;:79274024}}" data-hydro-click-hmac="3f2acbbf689da99202b3f74bca6ddab64fefa78478b0e8ad20b6fc47315560e5">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2833,20 +2824,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/othneildrew/Best-README-Template/blame/master/BLANK_README.md">
+              <a class="dropdown-item" href="/othneildrew/Best-README-Template/blame/master/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/othneildrew/Best-README-Template/edit/master/BLANK_README.md">Edit file</a>
+                <a class="dropdown-item" href="/othneildrew/Best-README-Template/edit/master/README.md">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:161215159,&quot;actor_id&quot;:79274024,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/othneildrew/Best-README-Template/delete/master/BLANK_README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/othneildrew/Best-README-Template/delete/master/README.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2860,30 +2851,30 @@
 
 
 
-<p dir="auto"><a href="https://github.com/github_username/repo_name/graphs/contributors"><img src="https://camo.githubusercontent.com/9d776cf0d82c7dfa51a0b520ff1c72d79fc03b9f5b5e4bb1ffdfe32355fa0275/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6769746875625f757365726e616d652f7265706f5f6e616d652e7376673f7374796c653d666f722d7468652d6261646765" alt="Contributors" data-canonical-src="https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://github.com/github_username/repo_name/network/members"><img src="https://camo.githubusercontent.com/92042062c1646a350dd6eacc0dfc53c6572df5d1ce16e4d9e6100587d25c51e2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6769746875625f757365726e616d652f7265706f5f6e616d652e7376673f7374796c653d666f722d7468652d6261646765" alt="Forks" data-canonical-src="https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://github.com/github_username/repo_name/stargazers"><img src="https://camo.githubusercontent.com/8825457741c4d0347821fc719ea25ae4de9e11fbe19e0dd32570dd536f0d381e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6769746875625f757365726e616d652f7265706f5f6e616d652e7376673f7374796c653d666f722d7468652d6261646765" alt="Stargazers" data-canonical-src="https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://github.com/github_username/repo_name/issues"><img src="https://camo.githubusercontent.com/711444329fc4f8bb79e9cb22b655ce5528afbf0237ac8166822256c48d94c2bd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6769746875625f757365726e616d652f7265706f5f6e616d652e7376673f7374796c653d666f722d7468652d6261646765" alt="Issues" data-canonical-src="https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://github.com/github_username/repo_name/blob/master/LICENSE.txt"><img src="https://camo.githubusercontent.com/205a3348821a9e0d247fcd10b552045f1484c5e49a5f227bc4f3c913433a8b6b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6769746875625f757365726e616d652f7265706f5f6e616d652e7376673f7374796c653d666f722d7468652d6261646765" alt="MIT License" data-canonical-src="https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/linkedin_username" rel="nofollow"><img src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;logo=linkedin&amp;colorB=555" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors"><img src="https://camo.githubusercontent.com/6a58189bfdc0586c06288c336cc805272bf16b06ce1ba81f9d299e4ff46992fe/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765" alt="Contributors" data-canonical-src="https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://github.com/othneildrew/Best-README-Template/network/members"><img src="https://camo.githubusercontent.com/41b2ca58ba13fd422e931f37deb272c903db457a8037cc66101e1e6e0ac7c5ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765" alt="Forks" data-canonical-src="https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://github.com/othneildrew/Best-README-Template/stargazers"><img src="https://camo.githubusercontent.com/bbe16ea29471b27ca22987d597ee33cbf3bf3dcc3970bf11378212da56a44daa/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765" alt="Stargazers" data-canonical-src="https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://github.com/othneildrew/Best-README-Template/issues"><img src="https://camo.githubusercontent.com/b2d93a16ff8ddd733fa825a03e367b8e36dfad71ef4614d4b9cfd2566b9bcf10/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765" alt="Issues" data-canonical-src="https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt"><img src="https://camo.githubusercontent.com/111148992d0253f8d5e36b62087d48a9eabb1d7244b2b7316214f47d5c9a8781/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765" alt="MIT License" data-canonical-src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/othneildrew" rel="nofollow"><img src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;logo=linkedin&amp;colorB=555" style="max-width: 100%;"></a></p>
 
 <br>
 <div align="center" dir="auto">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80" style="max-width: 100%;">
   </a>
-<h3 align="center" dir="auto"><a id="user-content-project_title" class="anchor" aria-hidden="true" href="#project_title"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>project_title</h3>
+  <h3 align="center" dir="auto"><a id="user-content-best-readme-template" class="anchor" aria-hidden="true" href="#best-readme-template"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Best-README-Template</h3>
   <p align="center" dir="auto">
-    project_description
+    An awesome README template to jumpstart your projects!
     <br>
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br>
     <br>
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -2914,9 +2905,18 @@
 
 <h2 dir="auto"><a id="user-content-about-the-project" class="anchor" aria-hidden="true" href="#about-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About The Project</h2>
 <p dir="auto"><a href="https://example.com" rel="nofollow"><img src="/othneildrew/Best-README-Template/raw/master/images/screenshot.png" alt="Product Name Screen Shot" style="max-width: 100%;"></a></p>
-<p dir="auto">Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: <code>github_username</code>, <code>repo_name</code>, <code>twitter_handle</code>, <code>linkedin_username</code>, <code>email_client</code>, <code>email</code>, <code>project_title</code>, <code>project_description</code></p>
+<p dir="auto">There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.</p>
+<p dir="auto">Here's why:</p>
+<ul dir="auto">
+<li>Your time should be focused on creating something amazing. A project that solves a problem and helps others</li>
+<li>You shouldn't be doing the same tasks over and over like creating a README from scratch</li>
+<li>You should implement DRY principles to the rest of your life <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></li>
+</ul>
+<p dir="auto">Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!</p>
+<p dir="auto">Use the <code>BLANK_README.md</code> to get started.</p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 <h3 dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Built With</h3>
+<p dir="auto">This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.</p>
 <ul dir="auto">
 <li><a href="https://nextjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/a2ef46f4aec1799b4366d5dd9e4cc60c250b9a4a1e0a4cea21bae63660b63a25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="Next" data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" style="max-width: 100%;"></a></li>
 <li><a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a></li>
@@ -2940,10 +2940,11 @@ To get a local copy up and running follow these simple example steps.</p>
 </li>
 </ul>
 <h3 dir="auto"><a id="user-content-installation" class="anchor" aria-hidden="true" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Installation</h3>
+<p dir="auto"><em>Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.</em></p>
 <ol dir="auto">
 <li>Get a free API Key at <a href="https://example.com" rel="nofollow">https://example.com</a></li>
 <li>Clone the repo
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="git clone https://github.com/github_username/repo_name.git"><pre>git clone https://github.com/github_username/repo_name.git</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="git clone https://github.com/your_username_/Project-Name.git"><pre>git clone https://github.com/your_username_/Project-Name.git</pre></div>
 </li>
 <li>Install NPM packages
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm install"><pre>npm install</pre></div>
@@ -2961,15 +2962,18 @@ To get a local copy up and running follow these simple example steps.</p>
 
 <h2 dir="auto"><a id="user-content-roadmap" class="anchor" aria-hidden="true" href="#roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Roadmap</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Feature 1</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Feature 2</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Feature 3
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Add Changelog</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Add back to top links</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Add Additional Templates w/ Examples</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Add "components" document to easily copy &amp; paste sections of the readme</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Multi-language Support
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Nested Feature</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Chinese</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Spanish</li>
 </ul>
 </li>
 </ul>
-<p dir="auto">See the <a href="https://github.com/github_username/repo_name/issues">open issues</a> for a full list of proposed features (and known issues).</p>
+<p dir="auto">See the <a href="https://github.com/othneildrew/Best-README-Template/issues">open issues</a> for a full list of proposed features (and known issues).</p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contributing</h2>
@@ -2990,15 +2994,21 @@ Don't forget to give the project a star! Thanks again!</p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 dir="auto"><a id="user-content-contact" class="anchor" aria-hidden="true" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contact</h2>
-<p dir="auto">Your Name - <a href="https://twitter.com/twitter_handle" rel="nofollow">@twitter_handle</a> - <a href="mailto:email@email_client.com">email@email_client.com</a></p>
-<p dir="auto">Project Link: <a href="https://github.com/github_username/repo_name">https://github.com/github_username/repo_name</a></p>
+<p dir="auto">Your Name - <a href="https://twitter.com/your_username" rel="nofollow">@your_twitter</a> - <a href="mailto:email@example.com">email@example.com</a></p>
+<p dir="auto">Project Link: <a href="https://github.com/your_username/repo_name">https://github.com/your_username/repo_name</a></p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 dir="auto"><a id="user-content-acknowledgments" class="anchor" aria-hidden="true" href="#acknowledgments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Acknowledgments</h2>
+<p dir="auto">Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!</p>
 <ul dir="auto">
-<li><a href="/othneildrew/Best-README-Template/blob/master"></a></li>
-<li><a href="/othneildrew/Best-README-Template/blob/master"></a></li>
-<li><a href="/othneildrew/Best-README-Template/blob/master"></a></li>
+<li><a href="https://choosealicense.com" rel="nofollow">Choose an Open Source License</a></li>
+<li><a href="https://www.webpagefx.com/tools/emoji-cheat-sheet" rel="nofollow">GitHub Emoji Cheat Sheet</a></li>
+<li><a href="https://flexbox.malven.co/" rel="nofollow">Malven's Flexbox Cheatsheet</a></li>
+<li><a href="https://grid.malven.co/" rel="nofollow">Malven's Grid Cheatsheet</a></li>
+<li><a href="https://shields.io" rel="nofollow">Img Shields</a></li>
+<li><a href="https://pages.github.com">GitHub Pages</a></li>
+<li><a href="https://fontawesome.com" rel="nofollow">Font Awesome</a></li>
+<li><a href="https://react-icons.github.io/react-icons/search" rel="nofollow">React Icons</a></li>
 </ul>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
